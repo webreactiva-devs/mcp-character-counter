@@ -1,0 +1,59 @@
+# Dependencias
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.pnp
+.pnp.js
+
+# Directorios de caché
+.npm
+.eslintcache
+.node_repl_history
+
+# Archivos de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Directorios de distribución
+/dist
+/build
+/out
+
+# Archivos de cobertura
+/coverage
+
+# Archivos de log
+logs
+*.log
+
+# Archivos específicos de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Carpetas específicas de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.sublime-project
+.history/

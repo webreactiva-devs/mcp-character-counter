@@ -1,0 +1,23 @@
+{
+  "name": "mcp-character-counter",
+  "version": "1.0.0",
+  "description": "- [Versión en español](#contador-de-caracteres-mcp)",
+  "main": "mcp/character-counter.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "show-path": "realpath mcp/character-counter.js"
+  },
+  "keywords": [
+    "mcp",
+    "character",
+    "counter",
+    "mcp-character-counter"
+  ],
+  "author": "delineas",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.10.1",
+    "zod": "^3.24.3"
+  }
+}
