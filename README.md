@@ -13,12 +13,15 @@ A lightweight Model Context Protocol (MCP) server that provides detailed charact
 - Count symbols (non-alphanumeric characters)
 - Detailed breakdown of character types
 
+![image](https://github.com/user-attachments/assets/ff79279b-8ad3-47b1-8ef0-3b46939ee1ca)
+
+
 ## Installation
 
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) v17 or higher
-- [Claude Desktop](https://claude.ai/download) or [GitHub Copilot](https://github.com/features/copilot)
+- [Claude Desktop](https://claude.ai/download) or [GitHub Copilot](https://github.com/features/copilot) or Other MCP compatible clientes
 
 ### Setup
 
@@ -140,7 +143,7 @@ Un servidor ligero de Model Context Protocol (MCP) que proporciona un análisis 
 ### Requisitos previos
 
 - [Node.js](https://nodejs.org/) v17 o superior
-- [Claude Desktop](https://claude.ai/download) o [GitHub Copilot](https://github.com/features/copilot)
+- [Claude Desktop](https://claude.ai/download) o [GitHub Copilot](https://github.com/features/copilot) o otros clientes compatibles con MCP
 
 ### Configuración
 
